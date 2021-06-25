@@ -46,3 +46,16 @@ footer {
   text-align: center;
   font-size: 14px;
 }
+
+.btn-top {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  z-index: 100;
+  font-size: 35px;
+  color: #d01c1c;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  display: none;
+}
